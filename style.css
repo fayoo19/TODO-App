@@ -1,0 +1,48 @@
+.dot { width: 30%;
+    height: 90vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    background-color: aqua;
+    position: relative;
+    left: 35%;
+
+}
+.dot input {
+    margin-top: 20px;
+    margin-left: 15px;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: solid black 1px
+    ;
+}
+.btn { background-color: aqua;
+    border-radius: 10px;
+    border-color: solid black 1px
+    ;
+
+}
+.yt {margin-left: 60%;
+    width: 75px;
+    margin-top: 10vh;
+    background-color: aqua;
+    border-radius: 10px;
+    border-color: solid black 1px
+    ;
+
+
+}
+.btnscnd {
+    background-color: rgb(0, 238, 255);
+    
+    border-radius: 10px;
+    border-color: solid black 1px
+    ;
+}
+.mylist {
+
+    height: 60vh;
+    width: 80%;
+  overflow-y: scroll;
+  
+
+}
